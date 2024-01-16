@@ -12,7 +12,6 @@ public class HelloworldApplication {
         System.out.println("Hello, World!!!");
         System.out.println("Hello, World!!!");
         System.out.println("Привет, Мир!!!");
-        System.out.println("Привет, Мир!!!");
     }
 
 }
